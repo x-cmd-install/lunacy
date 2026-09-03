@@ -1,11 +1,13 @@
 about:
-  description: Documentation for Lunacy, Graphic Design Software with built-in assets
+  description:
+  |
+    Documentation for Lunacy, Graphic Design Software with built-in assets
   license: NOASSERTION
   homepage: https://lunacy.docs.icons8.com
   head: 373c97f
   archived: false
   latestVersion: v3.9.1
-  collectedAt: 2026-09-03T05:19:30Z
+  collectedAt: 2026-09-03T22:35:14Z
 timeline:
   created: 2018-04-04
   lastCommit: 2026-08-12
@@ -20,7 +22,7 @@ popularity:
   issue: 55
 language:
   C#: 3373
-totalLine: 3373
+totalBytes: 3373
 recent:
   last30d:
     since: 2026-08-04
