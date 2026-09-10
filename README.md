@@ -23,7 +23,13 @@ x install lunacy
 - **Latest**: `v3.9.1` (2018-08-21)
 - **Last commit**: 2026-08-12
 - **Assets in release**: 2
-- **Published**: 2018-08-21T15:15:49Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [LunacyPortable_3.9.1.zip](https://github.com/icons8/lunacy/releases/download/v3.9.1/LunacyPortable_3.9.1.zip) | 29.6 MiB | `other` |
+| [LunacySetup_3.9.1.exe](https://github.com/icons8/lunacy/releases/download/v3.9.1/LunacySetup_3.9.1.exe) | 14.5 MiB | `other` |
 
 ## Popularity
 
@@ -58,8 +64,8 @@ Total: **84,651** lines of code across **74** files in the top 5 languages.
 Install metadata for lunacy lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `lunacy` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/lunacy.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/lunacy.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:56:35Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:36:55Z._
