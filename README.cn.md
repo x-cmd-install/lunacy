@@ -12,6 +12,18 @@ Documentation for Lunacy, Graphic Design Software with built-in assets
 x install lunacy
 ```
 
+## 代码规模
+
+合计: **84,651** 行代码（覆盖前 5 种语言、共 **74** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Svg | 71,291 | 0 | 0 | 10 |
+| JavaScript | 7,796 | 1,869 | 2,008 | 12 |
+| Sass | 3,189 | 608 | 592 | 39 |
+| Json | 1,622 | 0 | 0 | 3 |
+| Html | 455 | 1 | 5 | 10 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/icons8/lunacy>
@@ -23,13 +35,6 @@ x install lunacy
 - **最新版本**: `v3.9.1` (2018-08-21)
 - **最近提交**: 2026-08-12
 - **Release 含资产**: 2 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [LunacyPortable_3.9.1.zip](https://github.com/icons8/lunacy/releases/download/v3.9.1/LunacyPortable_3.9.1.zip) | 29.6 MiB | `other` |
-| [LunacySetup_3.9.1.exe](https://github.com/icons8/lunacy/releases/download/v3.9.1/LunacySetup_3.9.1.exe) | 14.5 MiB | `other` |
 
 ## 流行度
 
@@ -44,20 +49,26 @@ x install lunacy
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-## 代码规模
+## Release 资产
 
-合计: **84,651** 行代码（覆盖前 5 种语言、共 **74** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [LunacyPortable_3.9.1.zip](https://github.com/icons8/lunacy/releases/download/v3.9.1/LunacyPortable_3.9.1.zip) | 29.6 MiB | `other` |
+| [LunacySetup_3.9.1.exe](https://github.com/icons8/lunacy/releases/download/v3.9.1/LunacySetup_3.9.1.exe) | 14.5 MiB | `other` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Svg | 71,291 | 0 | 0 | 10 |
-| JavaScript | 7,796 | 1,869 | 2,008 | 12 |
-| Sass | 3,189 | 608 | 592 | 39 |
-| Json | 1,622 | 0 | 0 | 3 |
-| Html | 455 | 1 | 5 | 10 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/lunacy) 上共有 **11** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Nix unstable | `14.1` | ✅ latest |
 
 ## 改进这些数据
 
@@ -68,4 +79,4 @@ lunacy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:36:56Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:59:32Z._
