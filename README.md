@@ -48,12 +48,12 @@ Total: **88,507** lines of code across **100** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-29 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -61,6 +61,14 @@ Total: **88,507** lines of code across **100** files in the top 5 languages.
 |-------|-----:|--------|
 | [LunacyPortable_3.9.1.zip](https://github.com/icons8/lunacy/releases/download/v3.9.1/LunacyPortable_3.9.1.zip) | 29.6 MiB | `other` |
 | [LunacySetup_3.9.1.exe](https://github.com/icons8/lunacy/releases/download/v3.9.1/LunacySetup_3.9.1.exe) | 14.5 MiB | `other` |
+
+## Distribution status
+
+Reported by **11** distros on [repology.org](https://repology.org/project/lunacy). **6** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `14.1` | ✅ latest |
 
 ## Improve this data
 
@@ -71,4 +79,4 @@ Install metadata for lunacy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:34:34Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:16:39Z._
